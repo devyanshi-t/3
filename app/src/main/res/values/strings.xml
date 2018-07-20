@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3</string>
+    <array name="subject">
+        <item>Subjects</item>
+        <item>MATHS</item>
+        <item>PHYSICS</item>
+        <item>CSA</item>
+        <item>JAVA</item>
+        <item>LITERATURE</item>
+
+    </array>
+</resources>
